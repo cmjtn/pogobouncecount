@@ -4,3 +4,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* === Base styles === */
+body {
+  font-family: Georgia, serif;
+  background-color: #F5E642;
+  color: #1a1a1a;
+  line-height: 1.6;
+}
+
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
